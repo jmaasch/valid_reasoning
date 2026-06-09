@@ -1,7 +1,5 @@
 # Reasoning is a Learnable Rule-Based Process
 
-## About
-
 This repo is for the paper:
 
 **Position: Reasoning is a Learnable Rule-Based Process**. The 43rd International Conference on Machine Learning (ICML 2026).
